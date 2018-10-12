@@ -6,6 +6,7 @@ To build an disaster management android application for the users.
 The users would have an android app which would be connected to the internet(could also be provided as a service on top of a most commonly used android application)
 
 **Features:**
+```
 1. Get emergency help(SOS), share the details of the requirement of resources(along with the associated people names/count) if any(medical,clothing, food,etc)
 - All the requirement data is aggregated to get the estimate of the resource requirements for a specfic location
 
@@ -26,12 +27,13 @@ The users would have an android app which would be connected to the internet(cou
 - Mark safe feature similar to facebook
 
 7. A search feature for a user to query about friends/family member status
-
+```
 # Future Scope:
+```
 1. Region based analytics:
 - Prediction of major/minor calamities to occur
 - Using social network data(ex: get additional data about the affected regions from trending tweets)
 
 2. Intergrating into small scale gadgets like watches, bands, backpacks for a range of users including children
 - Get frequent updates of location(Ex: if the location is changing, the person is active, else there might be an issue, etc)
-
+```
