@@ -1,7 +1,7 @@
 # Idea:
 To build an disaster management android application for the users.
 
-**Goal of the application is to be a one stop point for multiple entities to get data from. In a nutshell, connecting users to different teams(rescue, food distribution, medic, etc)
+**Goal of the application is to be a one stop point for multiple entities to get data from. In a nutshell, connecting users to different teams(rescue, food distribution, medic, etc)**
 
 The users would have an android app which would be connected to the internet.
 
