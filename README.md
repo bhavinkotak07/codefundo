@@ -6,8 +6,8 @@ To build an disaster management android application for the users.
 The users would have an android app which would be connected to the internet.
 
 **Features:**
-1. Get emergency help(SOS), share the details of the requirement of resources(along with the associated people names/count) if any(medical,clothing, food,etc )
-..* All the requirement data is aggregated to get the estimate of the resource requirements for a specfic location
+1. Get emergency help(SOS), share the details of the requirement of resources(along with the associated people names/count) if any(medical,clothing, food,etc)
+..*All the requirement data is aggregated to get the estimate of the resource requirements for a specfic location
 
 2. Register as volunteer to help/donate resources
 ..* People can join the volunteer teams to help the people stuck in the calamity
